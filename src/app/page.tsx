@@ -41,7 +41,7 @@ function MainContent() {
 				</p>
 				<div className="flex justify-between items-center mt-12 lg:flex-row flex-col gap-8">
 					<a
-						href="https://deadalus-interface.vercel.app/"
+						href="https://app.deadalus.xyz"
 						target="_blank"
 						rel="noreferrer"
 						className="bg-green-600 hover:bg-green-700 px-5 py-2 border-2 rounded-lg border-[#FF6756aa]"
